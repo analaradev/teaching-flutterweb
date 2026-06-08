@@ -1,48 +1,40 @@
 # Curso de Desarrollo Web con Flutter
 
-Material de apoyo para curso o taller de desarrollo web con Flutter.
+<div align="center">
 
-## Objetivo
+![Teaching](https://img.shields.io/badge/Tipo-Ensenanza-f97316?style=for-the-badge)
+![Flutter Web](https://img.shields.io/badge/Flutter%20Web-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-Guiar a participantes en la configuracion del entorno y la construccion de interfaces web con Flutter, usando ejemplos practicos y recursos listos para clase.
+**Material de apoyo para curso o taller de desarrollo web con Flutter.**
+
+</div>
+
+---
+
+## Contexto
+
+Repositorio de ensenanza creado para guiar participantes en la configuracion del entorno y construccion de interfaces web con Flutter.
+
+## Proposito
+
+- Compartir ejemplos practicos para Flutter Web.
+- Explicar configuracion inicial del entorno.
+- Usar recursos de Supabase como apoyo.
+- Servir como material base para taller o curso.
 
 ## Tecnologias
 
-- Flutter
-- Dart
-- Flutter Web
-- Supabase
+![Flutter](https://img.shields.io/badge/Flutter-2563eb?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0ea5e9?style=flat-square&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-16a34a?style=flat-square&logo=supabase&logoColor=white)
+![Web](https://img.shields.io/badge/Web-f97316?style=flat-square)
 
-## Contenido
-
-- Ejemplos de diseno para Flutter Web
-- Material base para taller
-- Configuracion inicial del entorno
-- Recursos para trabajar con Supabase
-
-## Carpetas principales
+## Carpetas Principales
 
 - `diseno_chill`: version final o alternativa del diseno mostrado en clase.
 - `diseno_no_chill`: version utilizada durante el desarrollo del taller.
 
-## Requisitos sugeridos
+## Estado
 
-- Computadora con Windows, macOS o Linux
-- Google Chrome
-- Visual Studio Code
-- Flutter SDK configurado para web
-- Git
-- Cuenta de Supabase para practicas con base de datos y autenticacion
-
-## Uso
-
-Instalar dependencias y ejecutar el proyecto correspondiente con Flutter:
-
-```bash
-flutter pub get
-flutter run -d chrome
-```
-
-## Contexto
-
-Repositorio de ensenanza creado para compartir material tecnico y practicas guiadas de desarrollo web con Flutter.
+Material didactico para ensenanza de desarrollo web con Flutter.
